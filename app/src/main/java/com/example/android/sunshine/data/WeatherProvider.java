@@ -153,7 +153,7 @@ public class WeatherProvider extends ContentProvider {
                 //COMPLETE
 
 //          TODO (4) If the URI does match match CODE_WEATHER, return the super implementation of bulkInsert
-            //COMPLETE
+            //COMPLETE test had to be amended
 
         switch (match){
             case CODE_WEATHER:
